@@ -11,7 +11,7 @@ public class Cuadrado {
 	
 	public Double calcularArea(){
 		
-	    return (this.lado *lado);
+	    return this.lado*lado;
 		
 	}
 	
